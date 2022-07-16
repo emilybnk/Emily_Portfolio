@@ -5,4 +5,4 @@
 * Data analytics project to determine the greatest tennis player of all time
 * the data set contains data for the years 2000 - 2017
 
-![](https://github.com/emilybnk/GOAT_of_tennis_proj/blob/main/Grand_Slam_wins.png)
+![](https://github.com/emilybnk/Emily_Portfolio/blob/main/images/Grand_Slam_wins.png)
